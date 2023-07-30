@@ -6,7 +6,7 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
     repo: https://github.com/v15hnuf6n1x/File-Storing.git      
-    branch: master
+    branch: V1.2
     envVars:
       - key: BOT_TOKEN 
         sync: false
